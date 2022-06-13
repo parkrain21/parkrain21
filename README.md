@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkrain21&label=Profile%20views&color=0e75b6&style=flat" alt="parkrain21" /> </p>
 
-- 🔭 I’m currently working on **a Data analytics project**
+- 🔭 I’m currently working on **a Data warehousing project**
 
-- 🌱 I’m currently learning **Data Analytics, ETL Pipelines and Visualization**
+- 🌱 I’m currently learning **Data Engineering, ETL Pipelines and Data Warehousing**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/parkrain21](https://www.github.com/parkrain21)
+- 👨‍💻 All of my projects are available at [my repository](https://www.github.com/parkrain21)
 
-- 📫 How to reach me **parkmusni@gmail.com**
+- 📫 Feel free to reach me at **parkmusni@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/parkmusni/](https://www.linkedin.com/in/parkmusni/)
+- 📄 Know about my experiences by visiting my [Linkedin profile!](https://www.linkedin.com/in/parkmusni/)
 
-- ⚡ Fun fact **One piece is life!**
+- 🏴‍☠️ Fun fact **One piece is life!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
