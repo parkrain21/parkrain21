@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkrain21&label=Profile%20views&color=0e75b6&style=flat" alt="parkrain21" /> </p>
 
-- 🔭 I’m currently working on **a Data warehousing project**
+- 🔭 I’m currently working on **a Flask backend project**
 
-- 🌱 I’m currently learning **Data Engineering, ETL Pipelines and Data Warehousing**
+- 🌱 I’m currently learning **Backend Development and APIs using Python Flask**
 
 - 👨‍💻 All of my projects are available at [my repository](https://www.github.com/parkrain21)
 
