@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Flask backend project**
 
-- 🌱 I’m currently learning **Backend Development and APIs using Python Flask**
+- 🌱 I’m currently learning **Data Analytics using Python, Excel, SQL and PowerBI**
 
 - 👨‍💻 All of my projects are available at [my repository](https://www.github.com/parkrain21)
 
